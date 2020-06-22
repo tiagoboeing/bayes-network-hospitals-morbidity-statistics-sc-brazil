@@ -689,7 +689,7 @@
 				<interior color="e5f6f7" />
 				<outline color="000080" />
 				<font color="000000" name="Arial" size="8" />
-				<position>208 327 326 412</position>
+				<position>194 335 312 420</position>
 				<barchart active="true" width="171" height="234" />
 			</node>
 			<node id="cidade">
