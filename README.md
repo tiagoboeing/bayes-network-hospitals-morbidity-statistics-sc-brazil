@@ -1,5 +1,7 @@
 # Redes Bayesianas - Taxa de morbidade hospitalar em Santa Catarina
 
+[Vídeo explicativo](https://youtu.be/a0Z6_klpF40)
+
 Município listados:
 - Armazém
 - Gravatal
